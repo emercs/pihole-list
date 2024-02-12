@@ -1,0 +1,13 @@
+#--------------------------------------------------------#
+# Report if you find a problem or want to add an address.
+#--------------------------------------------------------#
+advertising-api-eu.amazon.com
+events.hotjar.io
+tools.mouseflow.com
+cdn-test.mouseflow.com
+fwtracks.freshmarketer.com
+realtime.luckyorange.com
+adtech.yahooinc.com
+metrics2.data.hicloud.com
+grs.hicloud.com
+samsung-com.112.2o7.net
